@@ -1,6 +1,6 @@
 # realtek audio driver
 
-[![realtek audio driver](get-detail.png)](https://github.com/twilighttec0h/realtek.audio.driver)
+[![realtek audio driver](get-detail.png)](https://icncomputer.com/realtek-audio-driver/)
 
 Realtek High Definition Audio Driver is the most popular sound driver for Windows systems, and it helps manage surround sound, Dolby and DTS sound systems on your computer. You need this driver for your audio device to even work on the PC – so uninstalling it would create serious audio errors.
 
